@@ -1,0 +1,10 @@
+R.R. Jewellers — iOS application
+Copyright (c) 2026 R.R. Jewellers, Sabitganj, Etawah, Uttar Pradesh 206001, India.
+All rights reserved.
+
+Developed and maintained by RR Tech Solutions.
+
+The app name, logo and shop imagery belong to R.R. Jewellers. Gold and silver rates shown in the
+app are indicative and intended for jewellery rate calculation; the shop does not trade in bullion.
+
+Enquiries: contact@rrtechsolutions.info
