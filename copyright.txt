@@ -1,5 +1,6 @@
 R.R. Jewellers — iOS application
 Copyright (c) 2026 R.R. Jewellers, Sabitganj, Etawah, Uttar Pradesh 206001, India.
+Proprietor: Kabir Bhojpuri. GSTIN: 09EEMPB1785R2ZM.
 All rights reserved.
 
 Developed and maintained by RR Tech Solutions.
